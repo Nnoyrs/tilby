@@ -1,6 +1,7 @@
 {
   "name": "web",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,17 +11,20 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@tilby/ui": "workspace:*",
     "next": "16.1.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
   "devDependencies": {
-    "@tilby/typescript-config": "workspace:*",
     "@biomejs/biome": "^2",
+    "@tailwindcss/postcss": "4.1.18",
+    "@tilby/typescript-config": "workspace:*",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
+    "tailwindcss": "4.1.18",
     "typescript": "^5"
   }
 }
