@@ -1,0 +1,33 @@
+{
+  "name": "@tilby/database",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schemas/*": "./src/schemas/*.ts"
+  },
+  "scripts": {
+    "lint": "biome check .",
+    "check-types": "tsc --noEmit",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:seed": "tsx scripts/seed.ts"
+  },
+  "dependencies": {
+    "@t3-oss/env-nextjs": "0.13.8",
+    "drizzle-orm": "0.45.1",
+    "pg": "8.16.3",
+    "postgres": "3.4.7",
+    "zod": "4.1.13"
+  },
+  "devDependencies": {
+    "@tilby/typescript-config": "workspace:*",
+    "@types/node": "^24",
+    "@types/pg": "8.15.6",
+    "drizzle-kit": "0.31.8",
+    "tsx": "4.21.0",
+    "typescript": "^5"
+  }
+}
