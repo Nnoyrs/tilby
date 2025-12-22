@@ -16,6 +16,15 @@
     "dev": {
       "cache": false,
       "persistent": true
+    },
+    "db:generate": {
+      "outputs": []
+    },
+    "db:migrate": {
+      "outputs": []
+    },
+    "db:seed": {
+      "outputs": []
     }
   }
 }
