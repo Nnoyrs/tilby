@@ -12,6 +12,7 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
+    "@tilby/auth": "workspace:*",
     "@tilby/database": "workspace:*",
     "@tilby/i18n": "workspace:*",
     "@tilby/ui": "workspace:*",
