@@ -23,7 +23,6 @@
     }
   },
   "include": [
-    "i18n-env.d.ts",
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
