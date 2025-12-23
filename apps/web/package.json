@@ -17,9 +17,11 @@
     "@tilby/database": "workspace:*",
     "@tilby/i18n": "workspace:*",
     "@tilby/ui": "workspace:*",
+    "@t3-oss/env-nextjs": "catalog:",
     "next": "16.1.1",
     "react": "catalog:react19",
-    "react-dom": "catalog:react19"
+    "react-dom": "catalog:react19",
+    "zod": "catalog:"
   },
   "devDependencies": {
     "@biomejs/biome": "catalog:",

@@ -4,6 +4,7 @@ packages:
 
 catalog:
   "@biomejs/biome": "^2"
+  "@t3-oss/env-nextjs": "^0.13.8"
   "@tailwindcss/postcss": "^4"
   "@types/node": "^24"
   "@turbo/gen": "^2.7.1"
